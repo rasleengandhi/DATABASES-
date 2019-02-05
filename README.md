@@ -33,7 +33,7 @@ import javafx.stage.Stage;
 
 public class HaliFlix extends Application
 {
-    //Mysql connection vars
+    //Mysql connection vars 
     static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
     static final String DB_URL = "jdbc:mysql://localhost/HALIFLIX";
     static final String USER = "root"; //root
